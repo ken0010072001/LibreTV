@@ -114,6 +114,66 @@ const API_SITES = {
         api: 'https://cj.lziapi.com/api.php/provide/vod/',
         name: '量子资源站'
     },
+    fantuan: {
+        api: 'https://www.fantuan.tv/api.php/provide/vod',
+        name: '饭团影视'
+    },
+    cj: {
+        api: 'https://cj.lziapi.com/api.php/provide/vod',
+        name: '影视工厂'
+    },
+    qiqidys: {
+        api: 'https://www.qiqidys.com/api.php/provide/vod',
+        name: '七七资源'
+    },
+    fantaiyi: {
+        api: 'http://www.饭太硬.net/tv',
+        name: '饭太硬'
+    },
+    fatcat: {
+        api: 'http://肥猫.com',
+        name: '肥猫'
+    },
+    xiaomi: {
+        api: 'https://mpanso.me/DEMO.json',
+        name: '小米'
+    },
+    wongxiao: {
+        api: 'http://tvbox.xn--4kq62z5rby2qupq9ub.top',
+        name: '王二小'
+    },
+    lingyi: {
+        api: 'https://100km.top/0',
+        name: '純一騷零'
+    },
+    ikun: {
+        api: 'https://ikunzyapi.com/api.php/provide/vod',
+        name: 'iKun资源'
+    },
+    OK: {
+        api: 'http://ok321.top/tv',
+        name: 'ok'
+    },
+    qiaoji: {
+        api: 'http://cdn.qiaoji8.com/tvbox.json',
+        name: '巧技'
+    },
+    XBPQ: {
+        api: 'https://tv.xn--yhqu5zs87a.top',
+        name: 'XBPQ'
+    },
+    lamfun: {
+        api: 'https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json',
+        name: '南風'
+    },
+    xiaobai: {
+        api: 'http://bp.tvbox.cam',
+        name: '小白'
+    },
+    xiaogao: {
+        api: 'http://tv.nxog.top/m',
+        name: '區歌'
+    },
     testSource: {
         api: 'https://www.example.com/api.php/provide/vod',
         name: '空内容测试源',
